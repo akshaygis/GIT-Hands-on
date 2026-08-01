@@ -1,2 +1,4 @@
 Hey Git, deady is here
 This is the second line 
+
+This is a part of new branch
